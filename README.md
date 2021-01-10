@@ -1,1 +1,1 @@
-# TradeMarks-dataset
+# TradeMarks dataset
