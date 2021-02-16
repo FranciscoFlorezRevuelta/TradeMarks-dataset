@@ -13,7 +13,10 @@ You need to follow the next steps.
 ### Download the EUIPO database
 
 1. Access [EUIPO’s Open Data Platform](https://euipo.europa.eu/ohimportal/es/open-data)
-2. Download all the elements under the 'Trademark' and 'InternationalRegistration'. This is quite laborious as there is no option to download the whole database
+2. Download all the PIC files under the 'Trademark' and 'InternationalRegistration' folders. This is quite laborious as there is no option to download the whole database.
+
+### Uncompress the EUIPO database
+3. Uncompress all the downloaded files into a single folder. As a result you will have all the trade mark images in this folder.
 
 ## Disclaimer
 
