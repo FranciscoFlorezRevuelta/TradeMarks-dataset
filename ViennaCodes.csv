@@ -1,0 +1,2029 @@
+idcategory,categdesc
+01,CELESTIAL BODIES; NATURAL PHENOMENA; GEOGRAPHICAL MAPS
+0101,STARS; COMETS
+010101,Stars
+010102,One star; nothing else
+010103,Two stars
+010104,Three stars
+010105,More than three stars
+010108,Stars with three points
+010109,Stars with four points
+010110,Stars with more points
+010112,Stars with uneven points; including sparks
+010113,Stars with rays or radiating lines
+010114,Incomplete stars
+010115,Comets; stars with tail and sonic
+010116,Stars with points ending in spheres
+010117,Compass cards
+010120,Star representing a human face or the head of an animal
+010125,Other representations of stars; not classified in division 1.11; stars stylized
+010199,Stars with five points
+0103,SUN
+010301,Sun rising or setting
+010302,Other representations of the sun ; suns stylized
+010306,Sun with landscapes
+010307,Sun with human beings or parts of the human body
+010308,Sun with animals
+010309,Sun with plants
+010310,Sun with clouds; rain; drops of water or representations of other natural phenom
+010311,Sun with manufactured articles or industrial products
+010312,Sun with other figurative elements
+010313,Sun with inscriptions
+010315,Sun with rays constituted by rectilinear lines; sheaves of lines or bands
+010316,Sun with rays constituted by flames or wavy lines; sheaves of lines or bands
+010317,Sun with rays constituted by triangles
+010318,Sun with irregular rays (corona)
+010319,Several suns
+010320,Sun representing a human face or the head of an animal
+0105,EARTH; TERRESTRIAL GLOBES; PLANETS
+010501,Terrestrial globes
+010502,Terrestrial globes with representation solely of meridians and parallels
+010503,Terrestrial globes in flattened form
+010504,Two terrestrial globes; maps of the world in two hemispheres
+010505,Free-standing terrestrial globes
+010506,Terrestrial globes with a banderole or an inscription
+010507,Terrestrial globes with human beings or parts of the human body
+010508,Terrestrial globes with animals
+010509,Terrestrial globes with plants
+010510,Terrestrial globes with clouds; rain; drops or water or representations of other
+010511,Terrestrial globes with manufactured articles or industrial products
+010512,Terrestrial globes with other figurative elements
+010515,Parts of terrestrial globes
+010523,Other representations of the Earth or of the terrestrial globe
+010524,Saturn
+010525,Other planets
+0107,MOON
+010701,Full moon; several moons
+010703,Full moon representing a human face or the head of an animal
+010706,Crescent moon; half-moon
+010707,Crescent or half-moon with human beings or parts of the human body
+010708,Crescent or half-moon with animals
+010710,Crescent or half-moon with clouds; rain; drops of water or representations of ot
+010711,Crescent or half-moon with manufactured articles or industrial products
+010712,Crescent or half-moon with other figurative elements
+010719,Several crescents or half-moons
+010720,Crescent or half-moon representing a human face or the head of an animal
+010722,Lunar globe
+0111,CONSTELLATIONS; GROUPS OF STARS; STARRY SKY; CELESTIAL GLOBES; CELESTIAL MAPS
+011101,Constellations; galaxies
+011102,Orion
+011103,Southern Cross
+011104,Great Bear; Little Bear
+011108,Stars grouped in circles; ovals or other geometrical figures
+011109,Milky Way; galaxies
+011110,Other constellations or groups of stars (except A 1.11.8)
+011112,Starry sky
+011115,Celestial globes; celestial maps
+0113,ARMILLARY SPHERES; PLANETARIA; ASTRONOMIC ORBITS; ATOMIC MODELS; MOLECULAR MODEL
+011301,Armillary spheres; planetaria; astronomic orbits; atomic models; molecular model
+011302,Armillary spheres; planetaria
+011305,Astronomic orbits
+011310,Atomic orbits
+011315,Atomic models; molecular models; representations of human; animal or vegetal cel
+0115,NATURAL PHENOMENA
+011501,Rainbows
+011503,Lightning
+011505,Flames
+011507,Sparks; explosions; exploding fireworks
+011509,Luminous sources; rays; shafts of light
+011511,Clouds; fog; vapor; smoke
+011513,Rain; hail
+011514,Puddles (of water)
+011515,Drops
+011517,Snow; snow flakes or snow crystals
+011519,Icicles; stalactites; stalagmites; mineral crystals; ice cubes
+011521,Bubbles; frothy masses; speech bubbles
+011523,Vortices; rotary movements; tornadoes
+011524,Waves
+011525,Other natural phenomena not classified in other divisions or categories; soil; a
+0117,GEOGRAPHICAL MAPS; PLANISPHERES
+011701,Planispheres
+011702,Continents
+011703,Europe; Asia; Eurasia
+011704,America
+011705,Africa
+011706,Australia; Oceania
+011707,Groups of countries
+011711,Isolated countries
+011712,Islands; archipelagoes
+011713,Parts of a country
+011714,Urban plans
+011715,Polar maps
+011716,Physical maps
+011717,Political maps
+011718,Economic maps
+011719,Tourist maps
+011725,Other geographical maps
+02,HUMAN BEINGS
+0201,MEN
+020101,Heads; busts
+020102,Armed men or men wearing armour or a uniform
+020103,Religious figures; men wearing a robe or a toga
+020104,Men wearing folk or historical costume; cowboys; king; indian; mexican; pirat; v
+020105,Men wearing a dinner jacket or a suit ; smoking-suit
+020107,Harlequins; clowns; pierrots; carnival characters or grotesque or freakish figur
+020108,Acrobats; athletes; dancers; jugglers; men practising sports; etc. (except 2.1.2
+020109,Musicians; men with musical instruments; conductors of orchestra
+020110,Nurses; doctors; dentists; laboratory personnel
+020111,Butchers; chefs; waiters; pastrycooks
+020112,Sailors; seamen; fishermen; pirates
+020113,Peasants; workers in the fields
+020114,Divers; frogmen
+020115,Other professionals (men); men working; astronauts
+020116,Shadows or silhouettes of men
+020117,Men seated; kneeling or lying down
+020118,Men drinking or eating
+020119,Men smoking
+020120,Men mounted on or accompanied by a horse; a mule or a donkey
+020121,Men mounted on animals or accompanied by animals (except 2.1.20)
+020122,Allegorical or mythological masculine personages; saints
+020123,Other stylized men
+020124,Several men
+020125,Industrial workers and masons
+020126,Cavemen
+020127,Santa Claus
+020130,Other men (also mummies)
+020191,Men on bicycle; on motorcycle
+020192,Nude men
+020193,Other stylized men
+020194,Stylized men formed by straight and thin lines
+020195,Stylized men formed by curved lines
+020196,Cartoon character
+020197,Stylized heads; (un-)/happy faces
+020198,Heads in silhouette; without facial detail
+020199,Matchstick man
+0203,WOMEN
+020301,Heads; busts
+020302,Heads in silhouette; without facial detail
+020303,Nuns; nurses
+020304,Women wearing folk or historical costume; queens.
+020305,Nude women or women wearing underclothes; a bathing costume; or other light atti
+020306,Women at their toilet; women making up
+020307,Women wearing an evening dress
+020308,Women engaging in sport; women dancers; drum majorettes
+020309,Women wearing a kimono; a sari; a djellaba
+020310,Women wearing city clothes
+020311,Women cooking or doing housework; waitresses
+020312,Women doing agricultural work
+020313,Women sewing; spinning or knitting
+020314,Women with typewriters or doing other office work
+020315,Other professionals (women); astronauts
+020316,Women in profile; women's silhouettes; women's shadow
+020317,Women seated; kneeling or lying down
+020318,Women drinking or eating
+020319,Women smoking
+020320,Women mounted on or accompanied by a horse; a mule or a donkey
+020321,Women mounted on animals or accompanied by animals (except 2.3.20)
+020322,Allegorical or mythological female personages; witches; grotesque women
+020323,Women stylized
+020324,Several women
+020325,Armed women or women wearing armour or a uniform
+020326,Musicians; women with musical instruments; conductors of orchestra
+020328,Pregnant women
+020330,Other women
+0205,CHILDREN
+020501,Heads; busts
+020502,Boys
+020503,Girls
+020504,Children wearing folk; historical or cowboy costume
+020505,Children in working costume or wearing a uniform
+020506,Babies
+020508,Children engaging in sport or playing
+020517,Children seated; kneeling or on all fours
+020518,Children drinking or eating
+020519,Children crying
+020520,Children with musical instruments
+020521,Children with animals
+020522,Pairs of children of different sexes
+020523,Children stylized
+020524,Several children
+020527,Shadows or silhouettes of children
+020530,Other children; phoetus
+0207,MIXED GROUPS; SCENES
+020701,Heads or busts of man and woman (couple); heads or busts of adult and child
+020702,Man and woman (couple)
+020704,Man and woman (couple wearing a folk or historical costume)
+020705,Man and woman (couple) nude or wearing underclothes or other light attire
+020709,Woman (women) and baby (babies)
+020710,Woman (women) and child (children)
+020711,Man (men) and baby (babies); man (men) and child (children)
+020712,man and a woman with child (children) (family)
+020713,Group sporting scenes
+020714,Groups of workers in fields or forests
+020715,Other groups at work
+020716,Theater; variety; concert or dancing scenes
+020717,Travelling shows; fairs and fairgrounds; street scenes; groups with vehicle(s)
+020718,Groups eating or drinking
+020719,Indoor scenes; groups gathered around a table
+020720,Battle scenes; military troops
+020721,Groups mounted on or accompanied by animals (except 2.7.13; 2.7.14; 2.7.17 and 2
+020723,Groups stylized
+020725,Other groups or scenes
+0209,PARTS OF THE HUMAN BODY; SKELETONS; SKULLS
+020901,Hearts
+020904,Eyes; iris.
+020906,Ears
+020907,Noses
+020908,Lips; mouths; tongues
+020910,Teeth; dentures; bites
+020912,Hair; locks of hair; wigs; beards; moustaches
+020914,Hands; cupped hands; fingers; fingernails; arms
+020915,Open hands (palm or back)
+020916,Hands joined in handshake
+020917,Imprints of hands or of fingers
+020918,Fists
+020919,Feet; toes; toenails; imprints of feet or of toes; legs
+020920,Thumbs up or thumbs down
+020921,Bodies or dummies without head or feet
+020922,Skeletons; parts of skeletons; bones (except 2.9.23)
+020923,Skulls
+020924,Lungs (respiratory system)
+020925,Other parts of the human body; D.N.A. band; cells; brains; spermas; hair roots (
+03,ANIMALS
+0301,QUADRUPEDS (SERIES I)
+030101,Lions
+030102,Heraldic lions
+030104,Tigers or other large felines
+030106,Cats or other small felines
+030108,Dogs; wolves; foxes
+030109,Boxers; bulldogs
+030110,Saint Bernards
+030111,Poodles
+030114,Bears; koalas; wombats
+030115,Pandas
+030116,Heads of animals of Series I
+030120,Animals of Series I rearing
+030121,Animals of Series I bounding
+030122,Animals of Series I with forepaw(s) resting on an escutcheon (shield)* or other
+030123,Animals of Series I facing each other
+030124,Animals of Series I stylized
+030125,Animals of Series I in costume
+030126,Animals of Series I standing
+030127,Animals of Series I lying down
+030128,Animals of Series I sitting down
+0302,QUADRUPEDS (SERIES II)
+030201,Elephants; mammoths
+030203,Elephants or mammoths facing front
+030204,Two elephants facing each other
+030207,Hippopotamus; rhinoceros
+030209,Giraffes
+030211,Okapis
+030213,Camels; dromedaries; llamas; alpacas; vicuñas
+030215,Heads of animals of Series II
+030224,Animals of Series II stylized
+030225,Animals of Series II in costume
+030226,Animals of Series II standing
+030227,Animals of Series II lying down
+030228,Animals of Series II sitting down
+0303,QUADRUPEDS (SERIES III)
+030301,Horses; mules
+030302,Donkeys
+030303,Zebras
+030315,Heads of animals of Series III
+030317,Animals of Series III rearing; bounding
+030324,Animals of Series III stylized
+030325,Animals of Series III in costume
+030326,Animals of Series III standing
+030327,Animals of Series III lying down
+030328,Animals of Series III sitting down
+0304,QUADRUPEDS (SERIES IV)
+030401,Bovines
+030402,Cows; calves
+030403,Cows with person milking them
+030404,Bisons; bulls
+030405,Other bovines
+030407,Deer; stags; elk; reindeer; fawns; antelopes
+030411,Goats; sheep; moufflons; chamois
+030412,Heads of animals of Series IV; without horns (except 3.4.20)
+030413,Heads of animals of Series IV; with horns
+030414,Heads of stags
+030415,Heads of stags with cross between antlers
+030416,Heads of elk
+030418,Pigs; boars; warthogs; wild boar
+030420,Heads of pigs or of boars
+030422,Animals of Series IV bounding; galloping
+030423,Animals of Series IV charging (attacking)
+030424,Animals of Series IV stylized
+030425,Animals of Series IV in costume
+030426,Animals of Series IV standing
+030427,Pigs; boars; warthogs; wild boar
+030428,Animals of Series IV sitting down
+0305,QUADRUPEDS (SERIES V); QUADRUMANA
+030501,Rabbits; hares
+030503,Squirrels
+030505,Beavers; marmots; badgers; martens; mink ; wolverines; racoon; skunk; armadillos
+030506,Ornithorhynchus (duck-billed platypuses)
+030507,Rats; mice; moles; hamsters
+030509,Hedgehogs; porcupines
+030511,Pangolins; anteaters
+030515,Kangaroos
+030517,Other quadrupeds belonging to Series I to V
+030519,Monkeys; apes; orang-utans and other quadrumana
+030520,Heads of animals of Series V
+030524,Animals of Series V stylized
+030525,Animals of Series V in costume
+030526,Animals of Series V standing
+030527,Animals of Series V lying down
+030528,Animals of Series V sitting down
+0306,PARTS OF THE BODIES; SKELETONS; SKULLS OF QUADRUPEDS OR OF QUADRUMANA
+030601,Parts of the bodies of quadrupeds or of quadrumana; skeletons; skulls
+030603,Paws; feet; pawprints; footprints
+030605,Skeletons; skulls of quadrupeds or of quadrumana
+030606,Horns
+030611,Hides; furs; skins
+030625,Other parts of the bodies of quadrupeds or of quadrumana
+0307,BIRDS; BATS
+030701,Eagles; falcons; vultures; condors; hawks
+030702,Heraldic eagles
+030703,Cocks; hens; chickens
+030704,Turkeys; pheasants; peacocks; hoopoes; partridges
+030705,Owls
+030706,Ducks; geese; swans
+030707,Storks; herons; cranes; flamingos or other waders
+030708,Penguins
+030709,Albatross; cormorants; gulls; pelicans
+030710,Swallows
+030711,Doves; pigeons; turtle-doves
+030712,Jackdaws; crows; rooks; magpies
+030713,Sparrows or other passerine birds; thrush
+030714,Ostriches; emus
+030715,Parrots; budgerigars; toucans; canary
+030716,Birds in flight or with outspread wings
+030717,Wings; stylized or not
+030718,Kiwis (apteryx)
+030719,Parts of birds; feathers; footprints; skeletons of birds
+030720,Nests; bird cages
+030721,Other birds; woodpeckers
+030722,Hummingbirds
+030723,Bats
+030724,Birds stylized
+030725,Birds in costume
+030726,Groups of birds or bats
+030798,Stylized birds formed by curved lines
+030799,Birds heads
+0309,AQUATIC ANIMALS; SCORPIONS
+030901,Fish; animals of fish-like form
+030902,Squali (sharks)
+030903,Cetaceans (sperm whales; whales; orcs; grampus; killer whales)
+030904,Dolphins
+030905,Swordfish; narwhal; sawfish
+030906,Ornamental fish; goldfish
+030907,Flat fish (sunfish; rays; dabs)
+030908,Snake-like (eels or others)
+030910,Other fish
+030911,Fish in their element or represented as such
+030912,Groups of fish; or of animals of fish-like form; of different kinds
+030913,Heads of fish; parts of fish; fish bones; shark jaws and shark teeth
+030914,Sea horses
+030915,Inkfish; octopuses
+030916,Crustaceans (crabs; shrimps; crayfish; lobsters); scorpions
+030917,Starfish
+030918,Shellfish (oysters; mussels; conches; other shellfish)
+030919,Coral; coral reef
+030920,Jellyfish
+030921,Groups of aquatic animals of division 3.9; of different kinds (except 3.9.1)
+030922,Aquariums; terrariums or vivariums containing animals of division 3.9
+030923,Other aquatic animals
+030924,Animals of division 3.9 stylized
+030925,Animals of division 3.9 in costume
+0311,REPTILES; AMPHIBIA; SNAILS; SEALS; SELIONS
+031101,Serpents
+031102,Serpent and cup (symbol of pharmacie)
+031103,Serpent(s) and staff  (symbol of medicine)
+031106,Worms
+031107,Snails; slugs
+031109,Alligators; caymans; crocodiles
+031110,Chameleons; lizards; salamanders
+031111,Tortoises
+031112,Toads; frogs; tadpoles
+031117,Seals; sea lions
+031121,Groups of animals of division 3.11; of different kinds
+031122,Terrariums or vivariums containing animals of division 3.11
+031123,Other animals belonging to division 3.11
+031124,Animals of division 3.11 stylized
+031125,Animals of division 3.11 in costume
+0313,INSECTS; SPIDERS; MICRO-ORGANISMS
+031301,Butterflies
+031302,Insects (except 3.13.1); spiders
+031304,Bees; wasps
+031305,Beehives; cells of honeycombs
+031306,Dragonflies
+031307,Flies; mosquitoes
+031308,Spiders; spider webs
+031309,Ladybirds
+031310,Beetles
+031311,Cockroaches
+031312,Cicadas; crickets; locusts; grasshoppers
+031316,Ants
+031317,Lice and aphides
+031318,Caterpillars; silkworms
+031319,Cocoons of silkworms; chrysalises
+031320,Micro-organisms
+031321,Groups of insects; spiders or micro-organisms; of different kinds
+031323,Other insects
+031324,Insects or spiders stylized
+031325,Insects or spiders in costume
+0315,OTHER ANIMALS; LARGE PREHISTORIC ANIMALS; DINOSAURS
+0317,GROUPS OF ANIMALS CLASSIFIED IN DIFFERENT DIVISIONS OF CATEGORY 3
+04,SUPERNATURAL; FABULOUS; FANTASTIC OR UNIDENTIFIABLE BEINGS
+0401,WINGED OR HORNED PERSONAGES
+040101,Winged human heads
+040102,Winged children (cherubs; cupids)
+040103,Other winged personages; fairies (except 4.1.4)
+040104,Devils or other horned personages; with or without wings
+040105,Heads of devils or horned personages
+040125,Groups of winged or horned personages classified in different sections of divisi
+0402,BEINGS PARTLY HUMAN AND PARTLY ANIMAL
+040201,Centaurs (head; arms and body of a man & body; legs of a horse)
+040202,Centaurs with bow; arrow(s) or lance
+040205,Sphinx
+040208,Tritons (fish/man)
+040211,Sirens; naiads
+040220,Other beings partly Human and partly animal
+040225,Groups of beings classified in different sections of division 4.2
+0403,FABULOUS ANIMALS
+040301,Winged lions; griffons (winged monster with the body of a lion and the head of a
+040303,Dragons
+040305,Winged horses (Pegasus)
+040307,Other winged quadrupeds
+040309,Unicorns
+040310,Monsters with several heads
+040311,Yetis
+040319,Heads of fabulous animals
+040320,Phoenixes; other fabulous animals (imaginary bird)
+040325,Groups of fabulous animals classified in different sections of division 4.3
+040399,Other fabulous animals
+0405,PLANTS; OBJECTS OR GEOMETRICAL FIGURES REPRESENTING PERSONAGE OR AN ANIMAL; MASK
+040501,Personified plants; combinations of plants representing a personage
+040502,Personified objects; combinations of objects representing a personage
+040503,Personified geometrical figures or solids; combinations of geometrical figures o
+040504,Robots of human appearance
+040505,Other unidentifiable personifications; other fantastic beings of human appearanc
+040511,Plants or combinations of plants representing an animal
+040512,Objects or combinations of objects representing an animal
+040513,Geometrical figures or solids or combinations of geometrical figures or solids r
+040514,Robots having the appearance of animals
+040515,Other forms representing an unidentifiable animal; other fantastic beings having
+040521,Masks or fanciful or unidentifiable heads
+0407,GROUPS OF FIGURATIVE ELEMENTS CLASSIFIED IN DIFFERENT DIVISIONS OF CATEGORY 4
+05,PLANTS
+0501,TREES; BUSHES
+050101,Trees or bushes of triangular shape; conical shape (pointed at top); or candle f
+050102,Trees or bushes of oblong shape (poplars)
+050103,Trees or bushes of some other shape
+050104,Trees or bushes without leaves
+050105,One tree or one bush
+050106,Two trees or two bushes
+050107,Three trees or three bushes
+050108,More than three trees or three bushes; thickets; copses
+050109,Groups of trees or of bushes of different shapes
+050110,Conifers
+050111,Deciduous trees
+050112,Palm trees; banana trees
+050114,Climbing bushes
+050115,Trees and bushes in blossom
+050116,Trees or bushes in stylized form
+050119,Vine stocks; stumps
+050120,Trunks of trees without branches
+050121,Large branches; branches without leaves or without needles; devining rod
+0503,LEAVES; NEEDLES; BRANCHES WITH LEAVES OR NEEDLES
+050301,Tobacco leaves
+050302,Oak leaves
+050303,Holly leaves
+050304,Vine leaves (except 5.3.19); plane leaves; maple leaves
+050305,Leaves of chestnut trees
+050306,Trefoils; trefoils represented as symbols or appearing on playing cards.
+050307,Ferns; palms
+050308,Wisteria leaves or acacia leaves
+050309,Ginkgo leaves
+050311,Other leaves
+050313,Stylized leaves
+050314,One leaf
+050315,Two to four leaves
+050316,More than four leaves; scattered leaves; bunches of leaves
+050317,Olive branches; with or without fruit
+050318,Mistletoe sprigs
+050319,Vine shoots
+050320,Other branches with leaves; with or without fruit
+050322,Needles; branches with needles
+0505,FLOWERS; BLOSSOMS
+050501,Roses
+050502,Lilies
+050503,Tulips; magnolias
+050504,Marguerites; sunflowers; daisies
+050505,Carnations
+050506,Pansies
+050507,Lilac or other flowers growing in vertical clusters; lavendel
+050508,Wisteria or other flowers growing in drooping clusters
+050510,Edelweiss
+050511,Gentians
+050512,Thistles
+050513,Poppies
+050514,Chrysanthemums
+050515,Orchids
+050516,Lotus flowers
+050518,Umbellate flowers
+050519,Other flowers; blossoms; flowers or blossoms of trees (cherry trees; peach trees
+050520,Stylized flowers
+050521,One flower
+050522,Several flowers (except 5.5.7';' 5.5.8';' 5.5.18 and 5.5.23)
+050523,Groups of flowers of different kinds; bunches; sheaves or baskets of flowers; fl
+0507,GRAIN; SEEDS; FRUITS
+050701,Grain; seeds; coffee beans
+050702,Ears of cereals (wheat; rye; barley; etc.); ears of maize; ears of sorghum & pan
+050703,Panicles of cereals (oats; rice; etc.)
+050704,Category deleted in new version
+050705,Sheaves of cereals
+050706,Shell or husk fruits (almonds; peanuts; cocoa beans; walnuts; hazelnuts; etc.);
+050707,Cupulate fruits (sweet chestnuts; edible chestnuts; acorns; etc.)
+050708,Strawberries; raspberries; blackberries
+050709,Currents; kiwis and other berries
+050710,Grapes (single specimens or bunches)
+050711,Oranges; mandarines or tangerines; grapefruit
+050712,Lemons; limes
+050713,Apples
+050714,Stone fruits (apricots; peaches; prunes; plums; dates; mangos; litchis; loquats;
+050715,Pears
+050716,Cherries
+050717,Pineapples
+050718,Bananas
+050719,Olives
+050720,Melons; water melons
+050721,Other fruits (except 5.7.9); pomegranates
+050722,Open fruits; slices or quarters of fruit; peels
+050723,One fruit
+050724,Groups of fruits of different kinds
+050725,Bowls or baskets of fruit
+050726,Fruits in jars
+050727,Coffee beans
+0509,VEGETABLES
+050901,Carrots
+050903,Potatoes; other tubers
+050906,Onions; bulbs; garlic
+050908,Leeks
+050910,Asparagus
+050912,Cabbages; lettuce; chicory
+050914,Gourds
+050915,Aubergines; cucumbers; gherkins; sweet peppers; paprikas.
+050917,Tomatoes
+050919,Beans; peas; lentils
+050921,Other vegetables; truffles; artichokes; avocados
+050922,Open vegetables; slices or quarters of vegetables
+050923,One vegetable
+050924,Groups of vegetables of different kinds
+050925,Baskets of vegetables
+050926,Vegetables in jars
+0511,OTHER PLANTS
+051101,Algae; seaweeds and other plants; aromic plants (basilicum; parsley; mint; dill.
+051102,Roots; radicles; ginsengs
+051103,Mosses; lichens
+051105,Mushrooms
+051109,Potato seedlings
+051110,Other seedlings or germinated seeds
+051111,Grasses
+051112,Wheat; rice
+051113,Bamboo; reeds; sugar canes; maize canes; vanilla pods; cinnamon canes; baboo sho
+051114,Cotton plants; cotton balls
+051115,Cones; fir cones; hop cones
+051117,Agaves; aloes
+051118,Prickly pears
+051119,Cactus
+051123,Plants in pots; in ornamental stands; in window-boxes or in tubs
+0513,DECORATIONS MADE OF PLANTS
+051301,Crowns of leaves; of flowers; of fruits or of vegetables
+051303,Crossed palms
+051304,Crossed branches; Ceasar's crown
+051306,Decorations of vine branches
+051307,Garlands; bands; borders or frames made of plants (except 5.13.6)
+051308,Garlands; bands; borders or frames made of leaves
+051309,Garlands; bands; borders or frames made of flowers
+051310,Garlands; bands; borders or frames made of fruits
+051311,Garlands; bands; borders or frames made of other plants
+051315,Christmas trees; branches of Christmas trees
+051325,Other decorations made of plants
+06,LANDSCAPES
+0601,MOUNTAINS; ROCKS; GROTTOES
+060101,Crags; rocks; walls of rocks
+060102,Mountains; mountain landscapes
+060103,Volcanoes
+060104,Mountains or volcanoes stylized
+060107,Grottoes
+0603,LANDSCAPES WITH WATER; RIVER OR STREAM
+060301,Lacustrine or maritime scenes
+060302,Beaches; coasts; bays
+060303,Islands; reefs
+060304,Open sea; stretches of water without shores
+060305,Lakes or seas with mountains around or in the background
+060306,Harbors
+060310,Other lacustrine or maritime scenes
+060311,Landscapes with running water
+060312,Springs; landscapes with spring(s)
+060313,Waterfalls; landscapes with waterfall(s)
+060314,Rivers; streams; rapids; torrents; with or without landscape
+060320,Other landscapes with running water
+0606,DESERT OR TROPICAL-TYPE LANDSCAPES
+060601,Desert landscapes or landscapes with very sparse vegetation
+060602,Oases
+060603,Other landscapes with palm trees
+060625,Other tropical-type landscapes
+0607,URBAN LANDSCAPES OR VILLAGE SCENES
+060701,Streets
+060702,Squares
+060704,Built-up areas
+060705,Built-up areas composed of skyscrapers
+060706,Built-up areas composed of flat-roofed houses
+060707,Built-up areas composed of huts
+060708,Built-up areas composed of rural constructions
+060711,Urban landscapes or village scenes with water; river or stream
+060725,Other urban landscapes or village scenes
+0619,OTHER LANDSCAPES
+061901,Other landscapes
+061905,Forest; undergrowth
+061907,Vineyards
+061909,Other cultivated areas
+061910,Landscapes with haystack(s)
+061911,Grasslands; pastures
+061913,Pasturelands with mountains around or in the background
+061915,Landscapes with windmill(s)
+061916,Landscapes with house(s)
+061917,Landscapes with factory(ies) or other industrial construction(s)
+061919,Polar landscapes
+061920,Cemeteries
+061921,Golf courses; golf holes; putting greens
+07,CONSTRUCTIONS; STRUCTURES FOR ADVERTISEMENTS; GATES OR BARRIERS
+0701,DWELLINGS; BUILDINGS; ADVERTISEMENT HOARDINGS OR PILLARS; CAGES OR KENNELS FOR A
+070101,Castles; fortresses; crenellated walls; palaces
+070103,Churches; cathedrals; abbeys; monasteries
+070104,Mosques; minarets
+070105,Pagodas
+070106,Towers or masts; derricks (except 7.1.16); transmitting masts
+070108,Houses; skyscrapers
+070109,Rural houses; farms; barns; house with garden
+070110,Flat-roofed houses
+070111,Chalets (small wooden house in a mountain area)
+070112,Urban houses; skyscrapers
+070113,Windmills or water mills
+070114,Industrial establishments; factory chimneys
+070115,Filling stations (gasoline)
+070116,Lighthouses
+070117,Kiosks; shelters; fair booths; market stalls
+070118,Advertisement hoardings or pillars; other structures for advertisements; all kin
+070119,Huts; cabins
+070120,Tents; jurts
+070121,Igloos
+070122,Animals' cages or kennels
+070123,Dwellings or buildings in ruins
+070124,Dwellings or buildings stylized
+070125,Other dwellings or buildings
+070126,Shops; supermarkets; restaurants; theaters
+070199,Heraldic castles
+0703,PARTS OF DWELLINGS OR OF BUILDINGS; INTERIORS
+070301,Doors; entrances
+070302,Windows; stained-glass windows
+070303,Bays; balconies; balustrades; moucharabies; pergolas
+070304,Interiors
+070305,Kitchens
+070306,Bathrooms and sauna-rooms
+070307,Bedrooms
+070308,Cellars
+070309,Other interiors
+070311,Roofs
+070312,Chimneys; chimney pots
+070313,Shop window displays
+070315,Staircases
+070320,Blinds; shutters; awnings
+070325,Other parts of dwellings or of buildings
+0705,MONUMENTS; STADIUMS; FOUNTAINS
+070501,Pyramids
+070502,Constructions recognized as monuments (Great Wall of China; Eiffel Tower; Statue
+070505,Other ancient monuments
+070506,Ancient temples or parts thereof
+070508,Columns; obelisks
+070509,Stadiums; amphitheaters; playgrounds; playing fields; boxing rings
+070510,Triumphal arches; porticos; town gates
+070511,Labyrinths
+070512,Totem poles
+070513,Tombstones
+070515,Fountains; basins; swimming pools; sprays or jets of water; wells
+070525,Other monuments
+0711,STRUCTURAL WORKS
+071101,Bridges
+071105,Tunnels
+071110,Roads; intersections; road forks
+071115,Railway lines
+071120,Mooring posts; bollards
+071121,Water hydrants; fire hydrants
+071123,Dams
+071125,Other structural works
+0715,BUILDING MATERIALS; WALLS; GATES OR BARRIERS; SCAFFOLDING
+071501,Stones; stones for building; bricks
+071505,Planks; plates; panels; flagstones
+071506,Corrugated iron or other corrugated materials
+071508,Representations of wood
+071509,Tiles
+071520,Other building materials
+071522,Walls; gates or barriers
+071525,Scaffolding
+071526,Solar panels
+08,FOODSTUFFS
+0801,BAKERS' PRODUCTS; PASTRY; CONFECTIONERY; CHOCOLATE
+080101,Bread
+080102,Pan loaves of square or rectangular shape
+080103,Long loaves; French bread (bread sticks)
+080104,Loaves of round or cylindrical shape
+080106,Rusks; slices of bread; slices of bread spread with butter; jam or other edible
+080107,Bread rolls; brioches
+080108,Croissants
+080109,Small biscuits
+080110,Small biscuits of round shape (except 8.1.12)
+080111,Small biscuits of square or rectangular shape (except 8.1.12)
+080112,Small biscuits with lobed edges
+080113,Small biscuits of triangular shape (except 8.1.12)
+080114,Mixtures of small biscuits of different shapes
+080115,Pastries
+080116,Tarts; flans; pies
+080117,Cakes
+080118,Ice creams; including wafer cones for ice cream
+080119,Chocolate; confectionery; chewing gum; sweets; candy
+080120,Slabs of chocolate
+080121,Sticks of chocolate
+080122,Squares of chocolate; pralines; fondants or other sweets (except 8.1.23)
+080123,Pralines; fondants or other wrapped sweets
+080124,Lollipops
+080125,Other bakers' products; donuts; waffel; brezel
+0803,MILK; DAIRY PRODUCTS; CHEESES
+080301,Milk; cream (except 8.3.2)
+080302,Whipped cream
+080303,Butter; margarine
+080304,Butter or margarine in pats
+080305,Butter or margarine in slabs
+080306,Butter or margarine in shell shape
+080307,Butter or margarine in some other shape
+080308,Cheeses
+080309,Cheeses of round shape
+080310,Cheeses of square or rectangular shape
+080311,Cheeses of some other shape (uncut)
+080312,Cheese cut up
+080325,Other dairy products (except 8.7.15)
+0805,BUTCHERS' MEAT; PORK PRODUCTS; FISHMONGERS' PRODUCTS
+080501,Butchers' meat; pork products; fishmongers' products
+080502,Ham; legs of mutton; joints of meat
+080503,Sausages (fresh); sausages (dry); salami
+080504,Butchers' meat; pork products or fish in slices
+080510,Poultry or game cooked or prepared for cooking
+080515,Fish; fish fillets or other fishmongers' products cooked or prepared for cooking
+080525,Other butchers' meat; other pork products
+0807,OTHER FOODSTUFFS
+080701,Soups or beverages (in plates; in cups; in bowls; in soup tureens; in glasses; e
+080703,Macaroni; other pasta
+080704,Pizzas
+080705,Dishes or plates; filled
+080707,Dishes of vegetables; vegetable salads
+080708,Crisps (chips); potato products and like products
+080709,Popcorn
+080710,Tacos; wraps; kebabs; empanadas and like products
+080711,Eggs of all kinds; eggs cooked
+080714,Fruit salads; compotes of fruit
+080715,Baked custard; puddings; omelettes
+080716,Pancakes; crêpes; tortillas
+080717,Mixtures of foodstuffs classified in different divisions
+080721,Sugar
+080722,Foodstuffs for dogs and cats (nuggets); pellets and flakes for animals
+080725,Other foodstuffs not classified in 8.7.1 to 8.7.22';' hamburgers
+09,TEXTILES; CLOTHING; SEWING ACCESORIES; HEADWEAR; FOOTWEAR
+0901,TEXTILES OTHER THAN CLOTHING; SHUTTLES
+090101,Thread
+090102,Thread wound into a skein
+090103,Thread wound on a bobbin or on some other support (except A 9.1.4)
+090104,Thread wound on a shuttle; shuttles with or without thread
+090105,Thread wound into a ball
+090106,Other presentations of thread
+090107,Laces; braids; tapes; cords; ropes
+090108,Stitches
+090109,Embroidery; tea cloths; tray cloths; trimmings
+090110,Ribbons; bows
+090111,Cloth; network; flat linen; curtains; carpets; towels; sheet; table-cloths; hand
+090115,Network; loose weaving; chain stitches
+090116,Cloth edged with a thread or one or more distinctive bands
+090117,Flat linen
+090118,Cloth in pieces or in rolls
+090119,Cloth in piles
+090120,Draped cloth; curtains
+090121,Carpets; cloth with fringes
+090122,Samples of cloth
+090123,Bed coverings; cushions; eiderdowns
+090124,Cloth labels; with scalloped edges or not
+090125,Other textile articles not classified in divisions 9.3';' 9.7 and 9.9
+0903,CLOTHING
+090301,Clothing
+090302,Jackets; waistcoats; coats; cloaks
+090303,Trousers; breeches
+090304,Suits or costumes (except A 9.3.5 and A 9.3.14)
+090305,Dresses; aprons; ladies' suits or costumes
+090307,Ponchos
+090308,Pullovers; sweaters
+090309,Shirts; T-shirts; bodices; shirt-blouses
+090310,Collars of clothing
+090313,Ties; bow ties; silk scarves
+090314,Underwear; underpants; diapers; bathing costumes
+090315,Stockings; socks; bootees
+090316,Gloves
+090317,Belts; buckles for belts
+090318,Bibs
+090319,Clothing pockets
+090320,Parts of clothing of division 9.3 (except 9.3.10 and 9.3.19)
+090321,Diving suits
+090325,Other clothing not classified in divisions 9.7 and 9.9
+090326,Groups of clothes of different kinds
+0905,SEWING ACCESSORIES; PATTERNS FOR DRESSMAKING
+090501,Needles; thimbles; hooks; pins
+090502,Sewing needles; straight or curved
+090503,Knitting needles
+090505,Thimbles
+090506,Crochet hooks
+090507,Fastening hooks
+090508,Pins (except a 9.5.9)
+090509,Safety pins
+090510,0ther sewing accessories
+090512,Buttons (except a 9.5.13)
+090513,Press studs
+090515,Slide fasteners
+090516,Patterns for clothing
+090517,Corset whalebones
+090518,Stitchings; topstitchings
+090525,Other sewing accessories; not classified in 9.5.1
+0907,HEADWEAR
+090701,Headwear
+090702,Turbans
+090705,Caps and berets
+090709,Cocked hats
+090711,Kepis
+090713,Phrygian caps
+090715,Fez
+090717,Broad-brimmed hats (Mexican hats or cowboys' hats)
+090719,Cooks' caps
+090721,Protective helmets
+090722,Mortarboards
+090725,Other headwear; indians feathers
+0909,FOOTWEAR
+090901,Footwear
+090902,Clogs
+090903,Low-heeled shoes
+090905,High-heeled shoes
+090907,Boots; top boots
+090910,Carpet slippers
+090911,Sports footwear; ski boots
+090913,Babies' footwear
+090914,Sandals; flip flops
+090915,Soles of boots and shoes; footprints left by boots and shoes
+090917,Other parts of footwear
+090925,Other footwear
+10,TABACCO; SMOKERS' REQUISITES; MATCHES; TRAVEL GOODS; FANS; TOILET ARTICLES
+1001,TOBACCO; SMOKERS' REQUISITES; MATCHES
+100101,Tobacco
+100102,Cut tobacco
+100103,Cigars
+100105,Cigarettes
+100107,Tobacco in any other form
+100110,Smokers' requisites; matches
+100111,Pipes
+100112,Hookahs
+100113,Cigarette holders and cigar holders
+100114,Pipe cleaners
+100115,Cigar cutters
+100116,Tobacco jars
+100117,Tobacco pouches
+100118,Lighters
+100119,Ash trays
+100120,Matches
+100125,Other smokers' requisites
+1003,TRAVEL GOODS; FANS; BAGS
+100301,Sticks; umbrellas; parasols
+100304,Open umbrellas or parasols
+100307,Fans
+100308,Wallets; purses
+100310,Bags; suitcases; trunks; brief-cases
+100311,Shopping bags
+100312,Satchels
+100313,Handbags
+100314,Handbag; suitcase or trunk fasteners
+100315,Rucksacks
+100316,Suitcases; trunks
+100325,Other travel goods
+1005,TOILET ARTICLES; MIRRORS
+100501,Toothbrushes; dose of toothpaste; toothpaste only
+100504,Shaving articles (except 10.5.21)
+100505,Open razors
+100506,Safety razors
+100507,Blades for safety razors
+100508,Electric razors
+100509,Shaving brushes
+100511,Hair clippers
+100513,Combs; hairbrushes
+100515,Lipsticks
+100517,Mirrors
+100519,Sprays for toilet purposes
+100521,Soap
+100525,Other toilet articles; other cosmetic or toilet products; sanitary towels; tooth
+11,HOUSHOLD UTENSILS
+1101,KNIVES; FORKS AND SPOONS; KITCHEN UTENSILS AND MACHINES
+110101,Knives; forks and spoons
+110102,Spoons
+110103,Knives
+110104,Forks
+110105,Sets consisting of knife(ves); fork(s) and/or spoon(s)
+110106,Chopsticks
+110109,Spatulas; tart slices; other table implements
+110110,Kitchen utensils and machines
+110111,Funnels
+110113,Strainers; colanders
+110114,Tin openers; bottle openers; corkscrews
+110115,Vegetable grinders; meat mincers
+110117,Chopping or carving boards
+110118,Coffee filters
+110119,Coffee mills
+110120,Pepper mills
+110121,Mixers
+110122,Rolling pins
+110125,Other kitchen utensils or machines; moulds.
+1103,CONTAINERS FOR BEVERAGES; PLATES AND DISHES; KITCHEN UTENSILS FOR SERVING; PREPA
+110301,Drinking vessels; cups (trophies)
+110302,Glasses with or without stems; without handles
+110303,Tankards; glasses with handles
+110304,Cups; cups with saucers
+110305,Trays
+110306,Drinking straws
+110307,Bowls
+110308,Serving jugs
+110309,Plates; saucers
+110310,Dishes; fruit dishes; salad bowls; fruit bowls
+110311,Sauce boats; soup tureens
+110313,Cruets; salt cellars; pepper casters; mustard pots
+110314,Tea pots; coffee pots; kettles
+110318,Saucepans; pots; stewpans; frying pans; cauldrons
+110320,Containers; plates or dishes containing food or drink
+110323,Plates and dishes with knives; forks or spoons
+110325,Other plates and dishes
+1107,OTHER HOUSEHOLD UTENSILS
+110701,Household utensils not classified in divisions 11.1 or 11.3
+110702,Irons
+110703,Coat hangers
+110704,Clothes-pegs; clothes-pins
+110705,Brushes; sponges; steel wool
+110707,Brooms; window cleaning instruments
+12,FURNITURE; SANITARY INSTALLATIONS
+1201,FURNITURE
+120101,Furniture
+120102,Cots
+120103,Beds
+120104,Mattresses; wedges; bolsters
+120105,Cradles
+120106,Hammock
+120109,Chairs; armchairs; stools
+120110,Benches; forms; seats; sofas
+120115,Tables; work benches; butchers' blocks; shop counters
+120116,Desks
+120117,Chests of drawers; trunks
+120119,Cupboards; sideboards; safes; strongboxes
+120121,Sets of shelves; whatnots; dressers
+120122,Clothes stands (valets)
+120125,Other pieces of furniture
+1203,SANITARY INSTALLATIONS
+120301,Sanitary installations
+120302,Washbasins; sinks
+120303,Baths
+120304,Showers
+120307,Water closets and bidets; flushing cisterns
+120311,Taps; taps which are not part of a sanitary installation
+120325,Other sanitary installations
+13,LIGHTNING; WIRELESS VALVES; HEATING; COOKING OR REFRIGERATING EQUIPMENT; WASHING
+1301,LIGHTING; WIRELESS VALVES
+130101,Candles; candlesticks
+130102,Candlesticks (except 13.1.3)
+130103,Candlesticks with several branches
+130105,Flambeaux; torches (except 13.1.8)
+130106,Lamps; fairy lights; lanterns; wireless valves
+130107,Oil lamps; lamps emitting a faint light
+130108,Fairy lights; lanterns (except A 13.1.9); hurricane lamps
+130109,Hurricane lamps
+130110,Street lamps; standard lamps
+130111,Table lamps; Argand lamps; lampshades
+130112,Hanging lamps
+130113,Bracket lamps
+130114,Electric torches; pocket lamps
+130115,Flashlights for signalling
+130116,Vehicle headlights
+130117,Electric light bulbs or tubes
+130118,Wireless valves
+130120,Parts of lamps (except 13.1.11 and 13.1.17)
+130125,Other lighting apparatus; spots
+1303,HEATING; COOKING OR REFRIGERATING EQUIPMENT; WASHING MACHINES; DRYING EQUIPMENT
+130301,Heating; cooking or refrigerating equipment
+130302,Hearths; braziers; other heating apparatus with open fire; bread oven
+130303,Boilers for heating; stoves for rooms
+130305,Radiators; sauna heating equipment; other heating apparatus
+130306,Parts of heating apparatus
+130307,Kitchen stoves; plate warmers and dish heaters; grills; toasters; barbecues
+130309,Other cooking equipment
+130310,Hair dryers
+130321,Refrigerating equipment
+130323,Washing machines; dishwashers (machines)
+130324,Household drying equipment
+130325,Irons and other ironing apparatus
+14,IRONMONGERY; TOOLS; LADDERS
+1401,TUBES; CABLES; HEAVY IRONMONGERY ARTICLES
+140101,Tubes; pipes; sluices
+140102,Tubes or pipes; bent; coiled or twisted
+140103,Joints of pipes or of tubes; sluices
+140105,Bars; cables; electric cables
+140106,Bars or cables; braided or twisted
+140107,Sections of cables
+140108,Cables with distinctive wires or with sections of different colours
+140110,Cables or cords with electric plugs
+140113,Chains; links of chain
+140114,Block chains (for bicycles; motorcycles; etc.)
+140115,Links of chain
+140116,Chains forming a ring
+140118,Other heavy ironmongery articles
+140119,Girders; spars; rods; rails
+140120,Profiles of girders; of spars; of rods or of rails
+140122,Iron rods for reinforcing concrete; structural frameworks of such iron
+140123,Barbed wire
+140124,Wire netting
+140125,Other heavy ironmongery articles
+1403,SMALL IRONMONGERY ARTICLES; SPRINGS
+140301,Nails; screws; bolts; rivets; dowel pins; screw nuts; drawing pins
+140302,Nails
+140303,Screws; bolts; rivets; dowel pins; drawing pins
+140307,Nails; screws; bolts; rivets and/or dowel pins; crossed
+140309,Screw nuts
+140311,Hooks
+140313,Terminal connectors for cables; cable clamps; collars; junction sleeves; rings;
+140315,Door handles; window handles; hinges; butt-hinges; other handles
+140316,Door bolts; latches
+140320,Other small ironmongery articles
+140321,Springs of whatever kind and for whatever purpose
+1405,KEYS FOR LOCKS; LOCKS; PADLOCKS
+140501,Keys; part of keys
+140502,One key
+140503,Two keys
+140506,More than two keys
+140509,Parts of keys
+140512,Keys with bows of circular; oval or constricted oval shape
+140513,Keys with lobed bows
+140514,Keys with diamond-shaped bows; figured or otherwise; with straight or concave ed
+140515,Keys of some other shape
+140518,Flat keys
+140519,Other keys
+140520,Keyrings; with or without keys
+140521,Locks; escutcheons
+140523,Padlocks
+140524,Handcuffs
+1407,TOOLS
+140701,Hammers; sledge-hammers; mallets; croquet mallets
+140702,Axes
+140703,Two hammers; two sledge-hammers or two axes; crossed
+140704,Anvils; shoemakers' lasts
+140706,Other tools (except 14.7.18 to 14.7.23) - electrical or not
+140707,Tongs; pincers
+140708,Tweezers
+140709,Wedge keys; spanners; screwdrivers
+140711,Braces; bow handles; hand drills
+140712,Power drills; pneumatic hammers
+140713,Bits (for drills); drills
+140714,Sharpening stones; whitening stones
+140715,Saws; saw benches; chain saws
+140716,Saw blades or belts of band saws; chains of chain saws
+140718,Cutlery
+140719,Knives; shoemakers'cutters
+140720,Scissors (except 14.7.21)
+140721,Sheep shears
+140723,Bricklayers' trowels and plasterers' hawks; spatulas other than artists? palette
+1409,AGRICULTURAL OR HORTICULTURAL IMPLEMENTS; ICE AXES
+140901,Spades
+140902,Spades; round or pointed
+140903,Spades; rectangular or square
+140905,Pickaxes; ice axes; hoes
+140907,Scythes; sickles
+140910,Other agricultural or horticultural implements
+140911,Rakes
+140913,Ploughs; ploughshares
+1411,LADDERS
+141101,Ladders
+141102,Single ladders
+141103,Double ladders
+141104,Stepladders
+141105,Swimming pool ladders
+15,MACHINERY; MOTORS; ENGINES
+1501,MACHINES FOR INDUSTRY OR AGRICULTURE; INDUSTRIAL INSTALLATIONS; MOTORS; ENGINES;
+150101,Machines for industry and industrial installations (such as for pressing;grindin
+150107,Conveyor belts
+150111,Motors; engines
+150113,Propellers; ventilators; blowers; turbines; burners; all kinds of propellers; in
+150117,Parts of machines for industry or agriculture; of industrial installations or of
+150119,Cranes; blocks and tackle; pulleys
+150121,Sprayers; paint sprayguns; fire extinguishers; water sprinklers; hoses
+150122,Machines for agriculture; lawn mowers and other garden machines
+150123,Petrol pumps
+150124,Automatic distributors; coin-freed vending machines (except 15.1.23); cash regis
+150125,Various other mechanical appliances; door closers
+1503,MACHINES FOR HOUSEHOLD USE; SPINNING WHEELS
+150301,Machines for household use
+150303,Sewing machines
+150305,Vacuum cleaners; polishers
+150309,Other household machines
+150311,Spinning wheels; distaffs; looms
+1505,OFFICE MACHINES
+150501,Typewriters
+150525,Other office machines
+1507,WHEELS; BEARINGS
+150701,Cog wheels; wheel cogs
+150702,Saw toothed wheels; disks of circular saws
+150703,Segments of cog wheels; wheel cogs
+150704,Cog wheels or segments of cog wheels with spokes
+150707,Ships' wheels; capstans; paddle wheels
+150709,Other wheels; with or without spokes
+150711,Ball bearings and other bearings
+150715,Gearing; several wheels in juxtaposition; transmission wheels
+150717,Wheels or wheel segments with wings
+150718,Wheels or bearings without any inscription or design
+150719,Wheels or bearings with inscription
+150720,Wheels or bearings with human beings; animals or plants
+150721,Wheels or bearings with other figurative elements
+1509,ELECTRICAL EQUIPMENT
+150901,Electrical equipment
+150902,Batteries; piles
+150903,Sparking plugs
+150909,Electrical accessories for vehicles (except 15.9.2 and 15.9.3)
+150910,Electric plugs
+150911,Switches
+150912,Electric outlets
+150915,Insulators
+150916,Transistors; diodes; resistors and magnets; resistances
+150918,Integrated circuits; computer chips
+150925,Other electrical apparatus
+16,TELECOMMUNICATIONS; SOUND RECORDING OR REPRODUCTION; COMPUTERS; PHOTOGRAPHY; CIN
+1601,TELECOMMUNICATIONS; SOUND RECORDING OR REPRODUCTION; COMPUTERS
+160101,Aerials; satellite dishes; pylons; posts or lines for telephone or electricity
+160104,Telecommunication; television; sound recording or sound reproduction apparatus a
+160105,Radio or television apparatus; apparatus for reproduction of images (video)
+160106,Computers; word processors; joystick; tastes (also in 24.17';'25); mouse pads
+160107,Computer mouses
+160108,Computer keyboards
+160111,Telephone receivers & parts and telephone dials (both kinds)
+160112,Fax machines; photocopying machines; scanners
+160113,Microphones
+160114,Headphones
+160115,Record players
+160116,Discs; CDs; DVDs for sound; image and data recording and reproduction; sleeves a
+160117,Recording tapes; cassettes for recording tapes
+160125,Other apparatus for telecommunication or the recording or reproduction of sound;
+1603,PHOTOGRAPHY; CINEMATOGRAPHY; OPTICS
+160301,Photographic or cinematographic apparatus; projection apparatus and lanterns
+160303,Iris diaphragms
+160305,Films; containers for films
+160311,Other apparatus; instruments or equipment for photography or the cinema; cameras
+160313,Spectacles; spectacle frames
+160315,Binoculars; telescopes; field glasses; microscopes
+160317,Magnifying glasses with handle
+160319,Optical lenses; contact lenses; spectacle lenses
+160325,Other optical apparatus; instruments or equipment; video cameras; traffic radars
+17,HOROLOGICAL INSTRUMENTS; JEWELRY; WEIGHTS AND MEASURES
+1701,HOROLOGICAL AND OTHER TIME-MEASURING INSTRUMENTS
+170101,Horological instruments
+170102,Circular dials with or without hands
+170103,Dials not being circular; with or without hands
+170105,Hands of horological instruments
+170106,Other parts of horological instruments
+170107,Watches
+170108,Chronometers
+170109,Clocks; alarm clocks
+170113,Watch bracelets
+170117,Sundials
+170119,Sandglasses
+170125,Other time-measuring instruments
+1702,JEWELRY
+170201,Precious stones
+170202,Precious stones cut in facets
+170204,Other representations of precious stones
+170205,Pearls
+170206,Pearls or precious stones in an oyster
+170213,Necklaces; bracelets; jewelry chains
+170217,Rings and wedding rings
+170225,Other jewels; cuff links; tie pins and hat pins
+1703,BALANCES; WEIGHTS
+170301,Balances; weights
+170302,Balances with two trays
+170303,Other balances
+170305,Parts of balances
+170311,Weights
+1705,MEASURES
+170501,Measures
+170502,Instruments for linear measurement (yardsticks; graduated rulers; tape measures;
+170503,Slide rules; calculating disks and cylinders
+170504,Abacuses
+170505,Gauges; calipers; vernier gauges; micrometers
+170507,Compasses for draftsmen and masons
+170509,Squares; French curves; T-squares
+170513,Plumb lines; lead weights for plumblines
+170515,Levels
+170517,Dials of measuring instruments
+170519,Thermometers
+170521,Compasses; mariners' compasses
+170525,Other measuring instruments; markers; weather vanes; anemometers; wind-socks; se
+18,TRANSPORT; EQUIPMENT FOR ANIMALS
+1801,LAND VEHICLES
+180101,Vehicles propelled by human or animal power (except 18.1.5 and 18.1.14)
+180102,Chariots for racing or combat; horse-drawn carriages with two wheels
+180103,Horse-drawn carriages or chariots with four or more wheels
+180105,Bicycles; motor cycles; motor scooters; tricycles; one wheel bicycle
+180107,Motor road vehicles
+180108,Lorries; coaches; tractors; trolleybuses; vans
+180109,Motor cars
+180111,Rail vehicles; trains; tramcars
+180112,Locomotives
+180114,Other land vehicles
+180115,Road rollers; self-propelled road construction or building site vehicles or mach
+180116,Lifts; lift trucks
+180117,Toboggans; sledges; other vehicles for snow; self-propelled machines for snow
+180118,Caravans; motor homes
+180119,Perambulators; caddies; scooters (with or without handlebars); supermarket troll
+180120,Wheelchairs
+180121,Tyres; tyre prints; snow chains; axles with or without wheels; steering wheels;
+180123,Stylized land vehicles
+180125,Other means of transport not classified in divisions 18.3 and 18.5';' cable cars
+1802,EQUIPMENT FOR ANIMALS
+180201,Horseshoes and horseshoe-shaped magnets (other magnets see 15.9.16)
+180207,Equipment for horses (except 18.2.1)
+180209,Stirrups; spurs
+180211,Harness
+180213,Saddles
+180215,Whips; hunting crops
+180217,Equipment for dogs and cats
+180218,Collars and leashes for dogs and cats
+180225,Equipment for other animals
+1803,VEHICLES FOR USE ON WATER AND AMPHIBIOUS VEHICLES
+180301,Rowing boats; canoes; gondolas; dinghies; kayaks
+180302,Sailing boats; sailboards
+180303,Viking boats; galleys; boats with a single square sail (set on a yard slung hori
+180305,Ancient sailing boats; with a pronounced sheer; and towering superstructures for
+180307,Large sailing boats on long slender lines; clippers
+180309,Other sailing boats
+180310,Sailboards; surfboards
+180313,Mixed ships (sail and steam)
+180314,Motor boats and ships
+180315,Liners
+180316,Submarines
+180317,Other motor boats or vessels; trawlers; tugs
+180318,Ships' funnels
+180321,Sails; portholes; oars
+180323,Fanciful or stylized boats
+180325,Other means of transport on water; floating docks; amphibious vehicles and air-
+1804,ANCHORS; BUOYS OR LIFEBELTS
+180401,Anchors; buoys or lifebelts
+180402,Anchors
+180403,Crossed anchors
+180411,Buoys or lifebelts
+1805,AERIAL OR SPACE VEHICLES
+180501,Aeroplanes; helicopters
+180503,Stylized aeroplanes
+180505,Other aerial vehicles; UFOs
+180506,Balloons; captive balloons; dirigible ballons
+180507,Kites; delta-wing gliders
+180508,Parachutes
+180510,Space rockets and capsules; artificial satellites
+1807,TRAFFIC SIGNS AND INDICATOR BOARDS
+180701,Road or railway traffic signs
+180709,Direction indicator boards or posts; business name plates; name and number plate
+180711,Road or railway traffic lights
+180713,Milestones
+180719,Semaphores
+180720,Other road or railway traffic signs
+180722,Water or air traffic signs
+180723,Signal buoys
+180725,Other water or air traffic signs
+19,CONTAINERS AND PACKING; REPRESENTATIONS OF MISCELLANEOUS PRODUCTS
+1901,LARGE CONTAINERS
+190101,Large cylindrical or elliptical containers (such as tanks; gas bottles; gas cyli
+190103,Large non-cylindrical or non-elliptical containers (such as packing cases; crate
+190104,Tins and cans; pails; watering cans; dustbins
+190105,Barrels lying horizontally
+190106,Barrels standing upright
+190107,Barrels viewed from the front
+190108,Vats; wooden buckets; milking pails
+190111,Large sacks for transporting merchandise
+190112,Baskets; including baskets carried on the back (dossers); portable bottle crates
+190125,Other large containers; palets
+1903,SMALL CONTAINERS
+190301,Small cylindrical or elliptical containers (such as tubes for pills or for lipst
+190303,Small non-cylindrical or non-elliptical containers
+190304,Letter boxes
+190305,Sachets
+190306,Coffe or tea pots
+190308,Piggy banks; money boxes
+190309,Small open containers
+190315,Tubes or bottles with their wrappers; present boxes
+190321,Tubes pinched at one end
+190324,Paper or card prepared for assembling into small containers
+190325,Other small containers ; blisters
+1907,BOTTLES; FLASKS
+190701,Bottles or flasks in circular or elliptical horizontal cross section
+190702,Bottles or flasks in horizontal cross section other than circular or elliptical
+190706,Bottles or flasks representing a human being; an animal; part of a human body or
+190707,Bottles or flasks with handle
+190709,Bottles or flasks; slender
+190710,Bottles or flasks; squat
+190712,Bottles or flasks without neck
+190713,Bottles or flasks with sloping or horizontal neck
+190716,Bottles or flasks with inward-curving sides
+190717,Bottles or flasks with bulging; protruding or rounded sides
+190720,Bottles or flasks of conical shape
+190722,Bottles or flasks with vertical; horizontal or other ribs
+190723,Bottles or flasks with surface relief other than ribs
+190724,Bottles or flasks in wicker casing
+190725,Other bottles or flasks
+190726,Feeding bottles; teats
+1908,PARTS OR ACCESSORIES OF BOTTLES
+190801,Parts or accessories of bottles
+190802,Bottle necks
+190805,Stoppers; corks
+190807,Sealing capsules
+190825,Other parts or accessories of bottles and receipients ; lids or covers; teats fo
+1909,AMPHORAE; PITCHERS; VASES; FLOWER POTS; FLOWER STANDS
+190901,Amphorae; pitchers; vases; flower pots; flower stands
+190902,Amphorae with or without handles; pitchers
+190903,Flower vases; decorative vases
+190907,Flower pots or plant-growing pots
+190909,Flower stands; plant boxes
+1910,COFFINS; FUNERARY URNS
+1911,RECEPTACLES FOR LABORATORY USE AND FOR PHARMACY
+191101,Mortars; mortars for kitchen use
+191104,Receptacles for laboratory use and for pharmacy
+191105,Retorts; spherical or ovoid
+191107,Triangular retorts
+191109,Receptacles of spherical shape (balloon flasks)
+191111,Receptacles of triangular shape
+191113,Tests
+191125,Other receptacles for laboratory use and for pharmacy
+1913,MEDICAL OR SURGICAL APPARATUS; INSTRUMENTS OR UTENSILS; PROSTHESES; MEDICINES
+191301,Medical or surgical apparatus; instruments or utensils; prostheses; medicines
+191303,Hypodermic syringes
+191305,Massage apparatus
+191307,Prostheses
+191313,Condoms
+191315,Plasters; bandages
+191321,Phials; capsules; pills; tablets; suppositories in rounded form
+191322,Stethoscopes
+191325,Other medical or surgical apparatus; instruments or utensils; earplugs; gasmasks
+191399,Phials; capsules; pills; tablets; suppositories in other (not rounded) form
+1919,REPRESENTATIONS OF MISCELLANEOUS PRODUCTS
+20,WRITING; DRAWING OR PAINTING MATERIALS; OFFICE REQUISITES; STATIONERY AND BOOKSE
+2001,WRITING; DRAWING OR PAINTING MATERIALS; SMALL OFFICE REQUISITES
+200101,Writing drawing or painting materials; including artists' palette knives (except
+200103,Pencils; pens; pen nibs; fountain pens; felt-tip pens
+200105,Paint brushes
+200109,Painters' rollers
+200111,Other writing; drawing or painting materials
+200115,Artists' easels; drawing boards; blackboards; slates
+200116,Clapperboards
+200117,Other small office requisites; paper clips; pencil sharpeners; adhesive tape dis
+200119,Embossed stamps or rubber stamps
+2005,PAPERS; DOCUMENTS
+200501,Parchments with furled or fringed edges
+200503,Calendars
+200505,Other documents bearing handwritten or printed texts; or tables
+200507,Plans; schematic drawings; diagrams; curves; outlines; graphics
+200511,Cards; card indexes; punched cards or tapes; postcards
+200513,Envelopes
+200514,Visiting cards
+200515,Tie-on labels
+200516,Bank; credit or identification cards; bar-coded or not; magnetic or not
+200521,Postage stamps
+200523,Bank notes
+200524,Crushed or crumpled paper; torn paper
+200525,Paper in rolls; wallpaper; other papers and documents; pile of paper; tickets
+2007,BOOKS; BOOKBINDINGS; NEWSPAPERS
+200701,Books; magazines; newspapers; bookbindings; binders
+200702,Books; magazines; newspapers
+200705,Bookbindings; binders; folders; box files
+200707,Headings of newspapers or magazines
+21,GAMES; TOYS; SPORTING ARTICLES; ROUNDABOUTS
+2101,GAMES; TOYS
+210101,Packs of cards; playing cards; figures on playing cards
+210102,Spade (suit)
+210103,Diamond (suit)
+210104,Four suits together (heart; spade; diamond; club)
+210105,Figures of King; Queen or Jack
+210107,Packs of cards; playing cards
+210109,Playing dice; dominoes
+210111,Draughtboards; chessboards; crosswords
+210113,Chessmen
+210114,Puzzles and their constitutive elements
+210115,Building games; pieces for building games
+210116,Balloons
+210117,Wind mills (girandoles)
+210125,Other games or toys; dolls (+ section 2.5); teddybears (+ section 3.1.149 & alik
+2103,SPORTING ARTICLES; ROUNDABOUTS
+210301,Footballs
+210303,Skittles
+210305,Rackets (tennis; badminton & squash)
+210307,Golf clubs; hockey sticks; polo mallets (& other golf articles)
+210309,Skis; points of skis; ski sticks
+210310,Snowboards
+210311,Ice or roller skates; skateboards
+210313,Dumb-bells; weights for lifting
+210314,Cricket stumps and bats (baseball & pingpong)
+210315,Tackle for fishing and hunting (except 21.3.16); tackle for underwater fishing
+210316,Nets for fishing; hunting or games
+210317,Goals for football and other team sports
+210319,Roundabouts; chutes; swings; seesaws
+210321,Targets
+210322,Table football (sporting articles)
+210323,Boxing gloves
+210324,Billiard tables and billiard cues
+210325,Other sporting articles; ice-hockey pucks; gymnastic apparatus and instruments
+210397,Basket balls
+210398,Golf balls
+210399,Shuttlecocks and other balls
+22,MUSICAL INSTRUMENTS AND THEIR ACCESORIES; MUSIC ACCESORIES; BELLS; PICTURES; SCU
+2201,MUSICAL INSTRUMENTS; MUSICAL INSTRUMENT ACCESSORIES; MUSIC ACCESSORIES
+220101,Percussion instruments
+220105,Wind instruments; whistles
+220106,Brass instruments (except 22.1.7)
+220107,Hunting horns
+220108,Woodwind instruments; bagpipes
+220110,Keyboard instruments
+220111,Pipe organs
+220115,Stringed instruments
+220116,Lyres; harps
+220121,Musical instrument accessories; music accessories; drumsticks; bows; metronomes;
+220122,Tuning forks
+220125,Other musical instruments
+2203,BELLS
+220301,Bells
+220305,One bell; door bell
+220306,Two bells
+220307,Three bells
+220308,More than three bells
+220321,Small globular bells
+2205,PICTURES; SCULPTURES
+220501,Pictures; famous pictures
+220503,Famous pictures
+220510,Sculptures representing human beings
+220512,Sculptures representing a woman
+220513,Sculptures representing a man
+220514,Sculptures representing a child
+220515,Sculptures representing a group of human beings
+220517,Equestrian sculptures
+220519,Sculptures representing animals
+220525,Other sculptures; abstract sculptures
+23,ARMS; AMMUNITION; ARMOUR
+2301,SIDE ARMS; OTHER WEAPONS NOT BEING FIREARMS
+230101,Side arms; spears; swords; daggers
+230105,Bows; quivers
+230107,Crossbows
+230125,Other weapons not being firearms
+2303,FIREARMS; AMMUNITION; EXPLOSIVES
+230301,Firearms
+230302,Cannons; self-propelled cannons; rocket launchers
+230303,Rifles; sub-machine guns; machine guns
+230305,Pistols; revolvers
+230307,Other firearms
+230310,Ammunition; explosives
+230311,Lead-shot cartridges
+230313,Ball cartridges
+230315,Shells; rockets
+230317,Grenades
+230325,Other ammunition or explosives
+2305,ARMOUR
+230501,Armour
+230505,Helmets being parts of armour
+230511,Other parts of armour
+24,HERALDRY; COINS; EMBLEMS; SYMBOLS
+2401,SHIELDS
+240101,Shields containing neither a figurative element nor an inscription
+240103,Shields containing representations of geometrical figures or solids; lines; band
+240105,Shields containing other figurative elements or inscriptions
+240107,Shields containing representations of heavenly bodies or natural phenomena
+240108,Shields containing representations of human beings or parts of the human body; w
+240109,Shields containing representations of animals or parts of animals' bodies
+240110,Shields containing representations of plants
+240111,Shields containing representations of landscapes; dwellings; buildings or struct
+240112,Shields containing representations of manufactured or industrial articles
+240113,Shields containing other figurative elements
+240115,Shields containing inscriptions
+240117,Shields with figurative elements or inscriptions placed outside
+240118,Shields surmounted by figurative elements or inscriptions
+240119,Shields with supporters
+240120,Shields with figurative elements or inscriptions placed outside in any other way
+240123,Several shields
+240125,Shields of unusual shape
+240199,Shields both surmounted and with supporters
+2403,SEALS; STAMPS
+240301,Seals or stamps
+240302,Seals or stamps or sealing-wax attached or applied to a document; ribbon or othe
+240307,Seals or stamps; circular
+240308,Seals or stamps; elliptical
+240309,Seals or stamps having some other form; sealing-wax (cire; lacre) *
+240311,Seals or stamps with representations of heavenly bodies or natural phenomena
+240312,Seals or stamps with representations of human beings or parts of the human body
+240313,Seals or stamps with representations of animals or parts of animals' bodies
+240314,Seals or stamps with representations of plants
+240315,Seals or stamps with representations of landscapes; dwellings; buildings or stru
+240316,Seals or stamps with representations of manufactured or industrial articles
+240317,Seals or stamps with representations of geometrical figures or solids
+240318,Seals or stamps with inscriptions
+240319,Seals or stamps with other figurative elements
+2405,MEDALS; COINS; DECORATIONS; ORDERS
+240501,One medal or coin
+240502,One medal or coin with the representation of a human head or a human being
+240503,One medal or coin with some other figurative element
+240505,Two medals or coins
+240507,More than two medals or coins
+240520,Decorations; orders
+240521,Golden fleece
+240525,Other decorations or orders; badges; sheriff stars
+2407,FLAGS
+240701,One flag
+240703,Two or more flags
+240705,Flags in clusters
+240711,Flags in the form of a banderole
+240713,Flags of which the part farthest from the staff is rounded or tapers to a point
+240715,Flags in the form of a triangle
+240721,Several flags on the same flagstaff; on the same cable
+240723,Stylized flags
+2409,CROWNS; DIADEMS
+240901,Crowns closed at the top (by cap of estate or chapeau)
+240902,Crowns open at the top
+240903,Stylized or fanciful crowns
+240904,Diadems
+240905,One crown
+240906,Two or more crowns
+240907,Crowns with spheres on the tips of the points
+240908,Crowns having the upper rim indented to resemble towers or battlements
+240909,Crowns having three triangular points
+240910,Crowns having more than three triangular points
+240911,Crowns with points in the form of arrows
+240912,Crowns with foliage dominant
+240913,Crowns surmounted with a cross
+240914,Crowns accompanied by a letter; monogram or numeral(s)
+240916,Crowns accompanied by another inscription
+240920,Crowns with representations of human beings or parts of the human body
+240921,Crowns with representations of animals or parts of animals' bodies
+240922,Crowns with representations of plants
+240923,Crowns with representations of manufactured or industrial articles
+240924,Crowns with another figurative element
+240925,Crowns presenting other characteristics
+2411,EMBLEMS; INSIGNIA
+241101,Roman ensigns; lictors' fasces; sceptres
+241103,Staves with wings (Mercury's staff)
+241105,Crooked sticks; shepherds' crooks; pastoral staffs
+241107,Neptune's tridents
+241111,Globes surmounted by a cross
+241113,Mitres
+241114,Mercury's helmet (with wings)
+241115,Star of David
+241116,Horns of plenty
+241117,Chinese symbol of good luck (Ruyi)
+241118,Signs; drawings or other figurative elements recognized as emblems or insignia
+241121,Braid (as decoration of honour or rank); cockades
+241125,Other emblems or insignia
+2413,CROSSES
+241301,Greek cross; St. Andrew's cross
+241302,Latin cross; tau cross
+241303,Cross of Lorraine; Papal cross
+241304,Maltese cross
+241305,Crosses formed by inscriptions
+241309,Crosses formed by intersecting lines
+241313,Crosses containing an inscription
+241314,Crosses accompanied by an inscription
+241317,Crosses containing a figurative element
+241321,Crosses with rays or radiating lines
+241322,Crosses within a circle or a polygon or ellipse
+241323,Crosses within a square or a rectangle
+241324,Crosses within any other figurative element
+241325,Other crosses
+2415,ARROWS
+241501,One arrow
+241502,Two arrows
+241503,More than two arrows
+241505,Arrows with barbs
+241507,Arrows combined with a letter; monogram or numeral(s)
+241508,Arrows combined with any other inscription (except 24.15.17)
+241511,Arrows combined with any other figurative element (except 24.15.13 and 24.15.15)
+241513,Arrows forming a circle; an arc of a circle or a ring
+241515,Arrows forming any other geometrical figure
+241517,Arrows formed by an inscription
+241521,Arrowheads
+2417,SIGNS; NOTATIONS; SYMBOLS
+241701,Punctuation marks; brackets; quotation marks
+241702,Dots
+241703,Asterisks
+241704,Exclamation marks; question marks
+241705,Mathematical signs
+241706,Several mathematical signs
+241707,Mathematical signs combined with figures or letters
+241708,Symbol of infinity
+241709,Other mathematical symbols; %; pi; factor ²
+241710,Musical symbols
+241711,Treble clefs alone
+241712,Notes alone
+241713,Treble clefs with notes and stave or with stave alone; notes with stave (without
+241714,Other musical symbols
+241715,Astronomical or astrological signs; signs of the zodiac; signs for masculine or
+241717,At-symbol @
+241718,Currency symbols
+241719,Recycling symbol
+241720,Check sign
+241721,Yin and yang symbol
+241722,Peace symbol
+241723,Prohibition symbol
+241725,Other signs; notations or symbols : º (temp); #; bar codes
+241797,Dactylographic signs : &; paragraph signs; new line signs
+241798,Category deleted in new version
+241799,Category deleted in new version
+25,ORNAMENTAL MOTIFS; SURFACES OR BACKGROUNDS WITH ORNAMENTS
+2501,ORNAMENTAL MOTIFS
+250101,Frontispieces (as a title page or on a label)
+250105,Ornamental bands and borders (except 25.1.9)
+250106,Banderoles; cartouches
+250109,Framework and frames (quadrangular)
+250110,Complete framework and frames
+250113,Partial frames; embellishments
+250115,Labels; collarettes (bottle-neck labels)
+250117,Bottle collarettes (bottle-neck labels)
+250118,Labels in the form of bands or rings
+250119,Other labels (in another form not specified hereunder)
+250125,Other ornamental motifs
+250191,Labels only with inscriptions
+250192,O Labels in the form of a square
+250193,O Labels in the form of a rhomb
+250194,O Labels in the form of a rectangle
+250195,O Labels in the form of an other irregular trapezia
+250196,O Labels in the form of a circle
+250197,O Labels in the form of an ellipse
+250198,O Labels in the form of a triangle
+250199,O Labels in the form of a polygon
+2503,HORIZONTALLY ELONGATED ORNAMENTAL SURFACES
+250301,Horizontally elongated surfaces
+250303,Elongated surfaces with two short sides convex or concave
+250305,Elongated surfaces with one short side convex or concave
+250307,Elongated surfaces with entasis on one or two long sides
+250309,Elongated polygons
+250311,Elongated surfaces with one or two long sides concave
+250313,Elongated surfaces with one or two long sides convex
+250315,Elongated surfaces with one or more sides consisting of a series of arcs of circ
+250325,Other elongated surfaces
+250397,Elongated surfaces with entasis on one side
+250398,Elongated surfaces with entasis on two sides
+250399,Elongated surfaces with dark surfaces
+2505,BACKGROUNDS DIVIDED INTO TWO OR FOUR
+250501,Backgrounds divided into two; vertically
+250502,Backgrounds divided into two; horizontally
+250503,Backgrounds divided into two; diagonally
+250505,Backgrounds divided crosswise; vertically and horizontally
+250506,Backgrounds divided crosswise; diagonally
+250525,Other backgrounds divided into two; three or four
+250594,Backgrounds in WORDS or NUMERALS divided into two; vertically
+250595,Backgrounds in WORDS or NUMERALS divided into two; horizontally
+250596,Backgrounds in WORDS or NUMERALS divided into two; diagonally
+250597,Backgrounds in WORDS or NUMERALS divided crosswise; vertically and horizontally
+250598,Backgrounds in WORDS or NUMERALS divided crosswise; diagonally
+250599,Other backgrounds in WORDS or NUMERALS divided into two; three or four
+2507,SURFACES OR BACKGROUNDS COVERED WITH REPEATED GEOMETRICAL FIGURES; FIGURATIVE EL
+250701,Surfaces or backgrounds covered with repeated geometrical figures or designs
+250702,Surfaces or backgrounds covered with lozenge shapes
+250703,Surfaces or backgrounds covered with squares or rectangles (except 25.7.4)
+250704,Surfaces or backgrounds in check pattern
+250705,Surfaces or backgrounds covered with polygons
+250706,Surfaces or backgrounds covered with circles or ellipses
+250707,Surfaces or backgrounds covered with dots
+250708,Surfaces or backgrounds covered with other repeated geometrical figures or desig
+250715,Surfaces or backgrounds covered with hatching
+250717,Surfaces or backgrounds covered with a repeated inscription
+250720,Surfaces or backgrounds covered with lines or bands
+250721,Surfaces or backgrounds covered with straight lines or bands
+250722,Surfaces or backgrounds covered with wavy lines or bands
+250723,Surfaces or backgrounds covered with lines or bands in zigzag or chevron pattern
+250725,Surfaces or backgrounds covered with other repeated figurative elements
+250799,Surfaces or backgrounds covered with spickled; recycled paper-like surfaces
+2512,SURFACES OR BACKGROUNDS COVERED WITH OTHER ORNAMENTS
+251201,Surfaces or backgrounds covered with rays or radiating lines
+251203,Moiré surfaces or backgrounds; marble; degrading surfaces; wooden-like surfaces
+251225,Surfaces or backgrounds covered with any other ornament & mosaic surfaces
+251299,Rainbow colours surfaces or backgrounds
+26,GEOMETRICAL FIGURS AND SOLIDS
+2601,CIRCLES
+260101,Category deleted in new version
+260102,Ellipses
+260103,One circle
+260104,Two circles one inside the other
+260105,More than two circles; inside one another; spirals
+260106,Several circles; juxtaposed; tangential or intersecting
+260107,Circles containing one or more ellipses (precise the content)
+260108,Circles containing one or more polygons (except 26.1.10 and 26.1.11) (precise th
+260109,
+260110,Circles containing one or more triangles or lines forming an angle (precise the
+260111,Circles containing one or more quadrilaterals (precise the content)
+260112,Circles containing one or more other geometrical figures (precise the content)
+260113,Circles containing representations of heavenly bodies or natural phenomena
+260114,Circles containing representations of human beings or parts of the human body
+260115,Circles containing representations of animals; parts of animals' bodies or plant
+260116,Circles containing other figurative elements
+260117,Circles containing one or more numerals
+260118,Circles containing one or more letters
+260119,Circles with inscriptions projecting beyond the circumference
+260120,Circles containing inscriptions arranged along the radius or diameter
+260121,Circles containing inscriptions arranged in circular form
+260122,Circles containing inscriptions arranged in some other form
+260124,Circles with dark surfaces or parts of surfaces
+260196,More than three circles juxtaposed
+260197,three circles juxtaposed
+260198,two circles juxtaposed
+260199,Circles containing one or more lines or bands (specify the content)
+2602,SEGMENTS OR SECTORS OF CIRCLES OR ELLIPSES
+260201,Segments of circles or ellipses (except 26.2.7)
+260203,Sectors of circles or ellipses (except 26.2.7)
+260205,Joined or intersecting segments or sectors of circles or ellipses
+260207,Semi-circles; semi-ellipses
+260208,Semi-circles or semi-ellipses containing letters
+260209,Semi-circles or semi-ellipses with dark surface
+260212,Segments or sectors of circles or ellipses containing one or more geometrical fi
+260217,Segments or sectors of circles or ellipses; semi-circles or semi-ellipses containing one or more numerals
+260218,Segments or sectors of circles or ellipses; semi-circles or semi-ellipses containing one or more letters
+260219,Segments or sectors of circles or ellipses; semi-circles or semi-ellipses with inscriptions projecting beyond the circumference
+2603,TRIANGLES; LINES FORMING AN ANGLE
+260301,One triangle
+260302,Two triangles; one inside the other
+260303,More than two triangles; inside one another
+260304,Several triangles; juxtaposed; joined or intersecting
+260305,Triangles pointing downwards
+260306,Triangular figures with one or more convex or concave sides
+260307,Triangular figures with one or more truncated or rounded angles
+260310,Triangles containing one or more circles; ellipses or polygons (except 26.3.11)
+260311,Triangles containing one or more quadrilaterals (specify the content)
+260312,Triangles containing one or more other geometrical figures (specify the content)
+260313,Triangles containing representations of heavenly bodies or natural phenomena
+260314,Triangles containing representations of human beings or parts of the human body
+260315,Triangles containing representations of animals or parts of animals' bodies or p
+260316,Triangles containing other figurative elements
+260317,Triangles containing one or more numerals
+260318,Triangles containing one or more letters
+260319,Triangles with inscriptions projecting beyond one or more of the sides there of
+260322,Triangles containing inscriptions
+260323,Lines or bands forming an angle
+260324,Triangles with dark surfaces or parts of surfaces
+260399,Triangles containing one or more lines or bands (specify the content)
+2604,QUADRILATERALS
+260401,Squares
+260402,Rectangles
+260403,Rhombs or squares standing on one of the corners thereof
+260404,Other irregular parallelograms; trapezia and quadrilaterals
+260405,One quadrilateral
+260406,Quadrilateral figures with one or more convex or concave sides; quadrilateral wi
+260407,Two quadrilaterals; one inside the other
+260408,More than two quadrilaterals; inside one another
+260409,Several quadrilaterals juxtaposed; joined or intersecting
+260410,Quadrilaterals containing one or more circles; ellipses or polygons (specify the
+260411,Quadrilaterals containing one or more triangles or lines forming an angle (speci
+260412,Quadrilaterals containing one or more other geometrical figures (specify the con
+260413,Quadrilaterals containing representations of heavenly bodies or natural phenomen
+260414,Quadrilaterals containing representations of human beings or parts of the human
+260415,Quadrilaterals containing representations of animals or parts of animals' bodies
+260416,Quadrilaterals containing other figurative elements
+260417,Quadrilaterals containing one or more numerals
+260418,Quadrilaterals containing one or more letters
+260419,Quadrilaterals with inscriptions projecting beyond one or more of the sides ther
+260422,Quadrilaterals containing other inscriptions
+260424,Quadrilaterals with dark surfaces or parts of surfaces
+260498,Quadrilaterals containing one or more rounded corners
+260499,Quadrilaterals containing one or more lines or bands (specify the content)
+2605,OTHER POLYGONS
+260501,One polygon
+260502,Two polygons; one inside the other (except 26.5.10 and 26.5.11)
+260503,Several polygons; inside one another (except 26.5.10 and 26.5.11)
+260504,Several polygons; juxtaposed; joined or intersecting
+260506,Polygonal figures with one or more convex or concave sides
+260508,Polygons with one or more truncated or rounded angles
+260509,Polygons containing one or more circles or ellipses (specify the content)
+260510,Polygons containing one or more triangles or lines forming an angle (specify the
+260511,Polygons containing one or more quadrilaterals (specify the content)
+260512,Polygons containing one or more other geometrical figures (specify the content)
+260513,Polygons containing representations of heavenly bodies or natural phenomena
+260514,Polygons containing representations of human beings or parts of the human body
+260515,Polygons containing representations of animals or parts of animals' bodies or pl
+260516,Polygons containing other figurative elements
+260517,Polygons containing one or more numerals
+260518,Polygons containing one or more letters
+260519,Polygons with inscriptions projecting beyond the circumference
+260522,Polygons containing other inscriptions
+260524,Polygons with dark surfaces or parts of surfaces
+260599,Polygons containing one or more lines or bands (specify the content)
+2607,DIFFERENT GEOMETRICAL FIGURES; JUXTAPOSED; JOINED OR INTERSECTING
+260701,Circles or ellipses with one or more segments and/or sectors of circles or ellip
+260703,Circles or ellipses with one or more triangles and/or lines forming an angle
+260704,Circles or ellipses with lines (except 26.7.3.)
+260705,Circles or ellipses with one or more other quadrilaterals
+260707,Circle or ellipses with one or more other polygons
+260709,Segments or sectors of circles or ellipses with one or more triangles and/or lin
+260711,Segments or sectors of circles or ellipses with one or more quadrilaterals
+260713,Segments or sectors of circles or ellipses with one or more other polygons
+260715,Triangles or lines forming an angle with one or more quadrilaterals
+260717,Triangles or lines forming an angle with one or more polygons other than quadril
+260718,Triangles with lines
+260719,Quadrilaterals with one or more polygons other than triangles
+260720,Quadrilaterals with lines
+260721,Polygons with lines
+260725,Other combinations of different geometrical figures; juxtaposed; joined or inter
+2611,LINES; BANDS
+261101,One line or one band
+261102,Two lines or bands
+261103,More than two lines or two bands
+261105,Thin lines
+261106,Thick lines; bands
+261107,Vertical lines or bands
+261108,Horizontal lines or bands
+261109,Oblique lines or bands
+261110,Straight lines or bands
+261111,Broken lines or bands (except 26.11.13)
+261112,Curved lines or bands (except 26.11.13)
+261113,Wavy lines or bands; zigzag lines or bands
+261114,Dotted lines or bands
+261121,Set of lines evoking speed or propulsion
+261122,Set of lines evoking sound or electromagnetic waves
+261125,Other lines or bands
+261197,Curved lines in the form of a crescent moon
+261198,More than three lines
+261199,Three lines
+2613,OTHER GEOMETRICAL FIGURES; INDEFINABLE DESIGNS
+261301,Stains; spots; blots
+261325,Other geometrical figures; indefinable designs
+261399,Strokes of brush
+2615,GEOMETRICAL SOLIDS
+261501,Spheres
+261503,Cylinders
+261505,Cones
+261507,Pyramids
+261509,Cubes
+261511,Parallelepipeds
+261513,Prisms
+261515,Other polyhedrons
+261525,Other geometrical solids
+261597,One sphere
+261598,several spheres
+261599,sphere with inscription
+2699,O ELLIPSES
+269903,One ellipse
+269904,Two ellipses; one inside the other
+269905,More than two ellipses; inside one another
+269906,Several ellipses; juxtaposed; tangential or intersecting
+269907,Ellipses containing one or more circles (precise the content)
+269908,Ellipses containing one or more polygons (except 26.1.10 and 26.1.11) (precise t
+269910,Ellipses containing one or more triangles or lines forming an angle (precise the
+269911,Ellipses containing one or more quadrilaterals (precise the content)
+269912,Ellipses containing one or more other geometrical figures (precise the content)
+269913,Ellipses containing representations of heavenly bodies or natural phenomena
+269914,Ellipses containing representations of human beings or parts of the human body
+269915,Ellipses containing representations of animals; parts of animals' bodies or plan
+269916,Ellipses containing other figurative elements
+269917,Ellipses containing one or more numerals
+269918,Ellipses containing one or more letters
+269919,Ellipses with inscriptions projecting beyond the circumference
+269920,Ellipses containing inscriptions arranged along the radius or diameter
+269921,Ellipses containing inscriptions arranged in elliptical form
+269922,Ellipses containing inscriptions arranged in some other form
+269924,Ellipses with dark surfaces or parts of surfaces
+269925,Ellipses representing a halo
+269932,Category deleted in new version
+269999,Ellipses containing one or more lines or bands (precise the content)
+27,FORMS OF WRITING; NUMERALS
+2701,LETTERS OR NUMERALS FORMING GEOMETRICAL FIGURES; WRITTEN OR TYPOGRAPHICAL MATTER
+270101,*Letters or numerals forming geometrical figures; written or typographical matte
+270102,Letters or numerals forming a square or a rectangle (surface or periphery)
+270103,Letters or numerals forming any other quadrilateral (surface or periphery)
+270104,Letters or numerals forming any other polygon (surface or periphery)
+270105,Letters or numerals forming a triangle (surface or periphery)
+270106,Letters or numerals forming a circle or a circumference
+270107,Letters or numerals forming an ellipse (surface or periphery)
+270108,Letters or numerals forming a plano-convex figure
+270109,Letters or numerals forming a plano-concave figure
+270110,Letters or numerals forming a biconvex figure
+270111,Letters or numerals forming a biconcave figure
+270112,Letters or numerals forming a figure in the shape of an arc of a circle
+270113,Letters or numerals forming a figure in the shape of a band with one or more wav
+270116,Letters or numerals in perspective (decreasing towards the center; towards one e
+270125,Letters or numerals forming some other geometrical figure
+2703,LETTERS OR NUMERALS REPRESENTING HUMAN BEING; AN ANIMAL; PLANT OR AN OBJECT
+270301,Letters or numerals representing a human being or a part of the human body; an a
+270302,Letters or numerals representing a human being or a part of the human body
+270303,Letters or numerals representing an animal or a part of an animal's body
+270311,Letters or numerals representing a plant
+270312,Letters or numerals representing a heavenly body or a natural phenomenon
+270315,Letters or numerals representing a figurative element
+2705,LETTERS PRESENTING SPECIAL FORM OF WRITING
+270501,Letters presenting a special form of writing
+270502,Letters written in double outline
+270503,Letters in relief or shaded
+270504,Letters embellished or decorated with a drawing
+270505,Letters containing written or typographical matter
+270506,Letters composed of a collection of drawings
+270507,Letters surmounted by a sign of disproportionate size
+270508,Letters linked to a figurative element
+270509,Series of letters presenting different forms of writing
+270510,Series of letters in different dimensions
+270511,Letters underlined; overlined; framed or barred by one or more strokes
+270512,Letters crossed or barred by letters; numerals or a figurative element
+270513,Letters in the form of a signature; illegible signatures
+270514,Letters repeated by mirror effect or symmetrically in any position
+270515,Series of letters separated from one another other than by a single space
+270517,Letters in heavy characters
+270519,Letters overlapping
+270521,One letter
+270522,Monograms formed of intertwined; overlapping or otherwise combined letters
+270523,Several letters
+270524,Letters in light-coloured characters on a dark background
+270525,Letters presenting some other special form of writing
+2707,NUMERALS PRESENTING SPECIAL FORM OF WRITING
+270701,Numerals presenting a special form of writing
+270702,Numerals written in double outline
+270703,Numerals in relief or shaded
+270704,Numerals embellished or decorated with a drawing containing inscriptions or comp
+270711,Numerals juxtaposed or joined to a letter or a figurative element
+270712,Numerals crossed or barred by letters or numerals or a figurative element
+270713,Numerals in handwritten or simulated handwritten characters
+270717,Numerals in heavy characters
+270719,Numerals overlapping or composed of irregular characters or arranged irregularly
+270721,One numeral
+270723,Roman numerals
+270724,Numerals in light-coloured characters on a dark background
+270725,Numerals presenting some other special form of writing
+2799,O ALPHABET
+279901,O Letter A
+279902,O Letter B
+279903,O Letter C
+279904,O Letter D
+279905,O Letter E
+279906,O Letter F
+279907,O Letter G
+279908,O Letter H
+279909,O Letter I
+279910,O Letter J
+279911,O Letter K
+279912,O Letter L
+279913,O Letter M
+279914,O Letter N
+279915,O Letter O
+279916,O Letter P
+279917,O Letter Q
+279918,O Letter R
+279919,O Letter S
+279920,O Letter T
+279921,O Letter U
+279922,O Letter V
+279923,O Letter W
+279924,O Letter X
+279925,O Letter Y
+279926,O Letter Z
+28,INSCRIPTIONS IN VARIOUS CHARACTERS
+2801,INSCRIPTIONS IN ARABIC CHARACTERS
+2803,INSCRIPTIONS IN CHINESE OR JAPANESE CHARACTERS
+2805,INSCRIPTIONS IN CYRILLIC CHARACTERS (Russian; Bulgarin etc.)
+2807,INSCRIPTIONS IN GREEK CHARACTERS
+2809,INSCRIPTIONS IN HEBREW CHARACTERS
+2811,INSCRIPTIONS IN LATIN CHARACTERS
+2817,INSCRIPTIONS IN HISTORICAL; CUNEIFORM OR HIEROGLYPHIC CHARACTERS
+2819,INSCRIPTIONS IN OTHER CHARACTERS & phonetic writing
+29,COLOURS
+2901,COLOURS
+290101,Red
+290102,Yellow
+290103,Green
+290104,Blue
+290105,Violet
+290106,White
+290107,Brown
+290108,Black
+290111,One predominant colour
+290112,Two predominant colours
+290113,Three predominant colours
+290114,Four colours
+290115,Five colours and over
+290195,Silver
+290196,Grey
+290197,Gold
+290198,Orange
+290199,Pink
+98,OTHER MARKS
+9801,SMELL MARK
+9802,SOUND MARK
+9803,OTHER MARK
+9804,3-D VIEWS
+9805,Hologram
+9806,Motion
+9807,Multimedia
+9808,Pattern
+9809,Position
+9810,Colour per se
+99,TOO BAD LOGO
+9999,TOO BAD LOGO
+999999,Too bad logo
