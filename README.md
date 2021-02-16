@@ -17,7 +17,7 @@ You need to follow the next steps.
 
 ### Uncompress the EUIPO database
 3. Uncompress all the downloaded files into a single folder, using for instance: `unzip "*.zip" -d database`. 
-4. The uncompressed database is structured into a folder hierarchy. The image name is not the trade mark id. This is the filing number. The trade mark id is the name of the folder in which the image is. Therefore, you must run `python organiseImages.py [sourceFolder] [destinationFolder]` 
+4. The uncompressed database is structured into a folder hierarchy. The image name is not the trade mark id. This is the filing number. The trade mark id is the name of the folder in which the image is. Therefore, you must run `python organiseImages.py [sourceFolder] [destinationFolder]`. For instance, `python organiseImages.py ./database ./images` to store all the images in a single folder.
 4. Run to update the names of the image files and convert them all to jpg.
 
 ### Preprocess the images
