@@ -16,7 +16,7 @@ You need to follow the next steps.
 2. Download all the PIC and DIFF_PIC files under the 'Trademark' and 'InternationalRegistration' folders. This is quite laborious as there is no option to download the whole database.
 
 ### Uncompress the EUIPO database
-3. Uncompress all the downloaded files into a single folder. As a result you will have all the trade mark images in this folder.
+3. Uncompress all the downloaded files into a single folder. As a result you will have all the trade mark images in that folder.
 
 ## Disclaimer
 
