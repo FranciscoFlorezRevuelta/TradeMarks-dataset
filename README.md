@@ -17,6 +17,7 @@ You need to follow the next steps.
 
 ### Uncompress the EUIPO database
 3. Uncompress all the downloaded files into a single folder. As a result you will have all the trade mark images in that folder.
+4. Run to update the names of the image files and convert them all to jpg.
 
 ## Disclaimer
 
