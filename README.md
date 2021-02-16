@@ -19,5 +19,11 @@ You need to follow the next steps.
 3. Uncompress all the downloaded files into a single folder. As a result you will have all the trade mark images in that folder.
 4. Run to update the names of the image files and convert them all to jpg.
 
+### Preprocess the images
+Preprocessing is required due to two main reasons:
+- In many cases, the trade marks are not centered in the image downloaded from the EUIPO database. This is frequent in filings performed in the early years when graphics manipulation and editing tools were not available; and
+- Most deep neural networks require a squared image as input.
+
+5. Run to preprocess the images.
 ## Disclaimer
 
