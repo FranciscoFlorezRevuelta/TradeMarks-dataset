@@ -21,12 +21,14 @@ You need to follow the next steps.
 4. The uncompressed database is structured into a folder hierarchy. The image name is not the trade mark id. This is the filing number. The trade mark id is the name of the folder in which the image is. Therefore, you must run `python organiseImages.py sourceFolder destinationFolder`. For instance, `python organiseImages.py ./database ./images` to store all the images in a single folder.
 
 ### Preprocess the images
-5. Preprocess the images. You must run `python preprocessImages.py sourceFolder destinationFolder sizeImages [extendBorder(0=No,1=Yes)]`. For instance, `python preprocessImages.py ./images ./images299 299 0`. The *extendBorder* parameter fills the border with white pixels (if equal to 0), or tries to extend with the current color in the border of the image (if equal to 1).
+5. Preprocess the images. You must run `python preprocessImages.py sourceFolder destinationFolder sizeImages [extendBorder(0=No,1=Yes)]`. For instance, `python preprocessImages.py ./images ./images299 299 0`. The *extendBorder* parameter fills the border with white pixels (if equal to 0) to make the image square, or tries to extend with the current color in the border of the image (if equal to 1).
   Preprocessing is required due to two main reasons:
     - In many cases, the trade marks are not centered in the image downloaded from the EUIPO database. This is frequent in filings performed in the early years when graphics manipulation and editing tools were not available; and
     - Most deep neural networks require a squared image as input.
 
-
+### Use the metadata
+6. You do not need to download the other files from the [EUIPO’s Open Data Platform](https://euipo.europa.eu/ohimportal/es/open-data), as I have already parsed them. The metadata files for the whole dataset and the train, validation, test subsets are available [here](https://drive.google.com/drive/folders/1OfWHG5l1LICerSQmlQ519o1raZNeblh2?usp=sharing). 
+7. 
 
 ## Disclaimer
 
