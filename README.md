@@ -28,7 +28,7 @@ You need to follow the next steps.
 
 ### Use the metadata
 6. You do not need to download the other files from the [EUIPO’s Open Data Platform](https://euipo.europa.eu/ohimportal/es/open-data), as I have already parsed them. The metadata files for the whole dataset and the train, validation, test subsets are available [here](https://drive.google.com/drive/folders/1OfWHG5l1LICerSQmlQ519o1raZNeblh2?usp=sharing). 
-7. 
+7. ViennaCodes.csv provides the Vienna Classification used in the different subsets.
 
 ## Disclaimer
-
+I do not work for the EUIPO nor for any other official or public agency, including but not limited to Intellectual Property Offices. 
